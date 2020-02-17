@@ -1,2 +1,2 @@
-# Statistics
-this repo will describe the different ways to perform statistics in machine learning model
+# EDA
+this repo will describe the different ways to perform exploratory data analysis in machine learning model
